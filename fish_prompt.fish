@@ -1,0 +1,1 @@
+/home/zabana/.local/share/omf/themes/toaster/fish_prompt.fish
